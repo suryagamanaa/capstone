@@ -1,5 +1,5 @@
 # capstone
-
+# Pemodelan Keuangan Derivatif
 Pemodelan Keuangan Derivatif adalah mata kuliah yang mempelajari:
 1. Teori dasar penetapan harga aset keuangan.
 2. Model pergerakan harga saham (misalnya Geometric Brownian Motion).
